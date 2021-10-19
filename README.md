@@ -1,2 +1,2 @@
 # CyberSecurity
-Notebooks and projects on cybersecurity in general 
+This repository contains miscellaneous notebooks and projects on cybersecurity in general 
